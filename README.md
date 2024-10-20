@@ -8,7 +8,7 @@ Para rodar a aplicação localmente, siga os passos abaixo:
 
 1. Clone o repositório:
     ```bash
-    git clone 
+    git clone https://github.com/JosielJrr/nextjs-todo-app.git
     ```
 2. Instale as dependências:
     ```bash
