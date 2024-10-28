@@ -37,6 +37,6 @@ Aqui estão os comandos disponíveis para gerenciar a aplicação:
 - **Prisma**: Gerenciamento de banco de dados.
 - **Tailwind CSS**: Estilização dos componentes da interface.
 
-## Nota Adicional
+## Sobre o Projeto
 
 Este projeto foi desenvolvido no curso **Curso de Next.js do básico ao avançado com projetos** do [Hora de Codar](https://app.horadecodar.com.br/).
