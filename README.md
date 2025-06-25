@@ -24,5 +24,12 @@ Aplicação simples de Lista de Tarefas construída com [Next.js](https://nextjs
    ```bash
    npm run dev
    ```
+## Configuração do Ambiente
+
+Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
+   ```ini
+   DATABASE_URL="file:./dev.db"
+   ```
+Isso garante que o Prisma consiga acessar o banco SQLite local para rodar a aplicação.
 
 > Este projeto foi desenvolvido no curso **Curso de Next.js do básico ao avançado com projetos** do [Hora de Codar](https://app.horadecodar.com.br/).
