@@ -1,13 +1,13 @@
 ## Lista de Tarefas (Todo)
 
-Aplicação simples de Lista de Tarefas construída com [Next.js](https://nextjs.org/) e banco de dados local (SQLite). Permite adicionar, visualizar, editar, excluir e alternar o status das tarefas entre pendente e completa.
+Aplicação simples de Lista de Tarefas construída com Next.js e banco de dados local (SQLite). Permite adicionar, visualizar, editar, excluir e alternar o status das tarefas entre pendente e completa.
 
 ## Tecnologias Utilizadas
 
-- **Next.js**: Framework React para aplicações web.
-- **Prisma**: ORM para gerenciamento do banco de dados.
-- **SQLite**: Banco de dados leve, armazenado localmente.
-- **Tailwind CSS**: Framework CSS para estilização responsiva.
+- **[Next.js](https://nextjs.org/)** – Framework React para aplicações web.
+- **[Tailwind CSS](https://tailwindcss.com/)** – Framework CSS para estilização responsiva.
+- **[Prisma](https://www.prisma.io/)** – ORM para gerenciamento do banco de dados.
+- **[SQLite](https://sqlite.org/index.html)** – Banco de dados leve, armazenado localmente.
 
 ## Instalação e Uso
 
@@ -32,4 +32,4 @@ Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
    ```
 Isso garante que o Prisma consiga acessar o banco SQLite local para rodar a aplicação.
 
-> Este projeto foi desenvolvido no curso **Curso de Next.js do básico ao avançado com projetos** do [Hora de Codar](https://app.horadecodar.com.br/).
+> Projeto desenvolvido no curso **Curso de Next.js do básico ao avançado com projetos** do [Hora de Codar](https://app.horadecodar.com.br/).
