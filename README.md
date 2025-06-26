@@ -1,15 +1,15 @@
-## Lista de Tarefas (Todo)
+## ✅ Lista de Tarefas
 
 Aplicação simples de Lista de Tarefas construída com Next.js e banco de dados local (SQLite). Permite adicionar, visualizar, editar, excluir e alternar o status das tarefas entre pendente e completa.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **[Next.js](https://nextjs.org/)** – Framework React para aplicações web.
 - **[Tailwind CSS](https://tailwindcss.com/)** – Framework CSS para estilização responsiva.
 - **[Prisma](https://www.prisma.io/)** – ORM para gerenciamento do banco de dados.
 - **[SQLite](https://sqlite.org/index.html)** – Banco de dados leve, armazenado localmente.
 
-## Instalação e Uso
+## 📦 Instalação e Uso
 
 1. Clone o repositório:
    ```bash
@@ -24,7 +24,7 @@ Aplicação simples de Lista de Tarefas construída com Next.js e banco de dados
    ```bash
    npm run dev
    ```
-## Configuração do Ambiente
+## ⚙️ Configuração do Ambiente
 
 Crie um arquivo `.env` na raiz do projeto com o seguinte conteúdo:
    ```ini
